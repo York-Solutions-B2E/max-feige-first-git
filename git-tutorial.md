@@ -5,7 +5,7 @@ https://github.com/York-Solutions-B2E
 
 ## GitHub Setup
 1. Make new repository (click new on github)
-2. Add Remote (git remote add origin (link))
+2. Add Remote (g`it remote add origin (link)`)
 ## Git Setup
 1. Git Init (`git init`)
 2. Git Add (`git add .`)
